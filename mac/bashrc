@@ -11,12 +11,6 @@ alias vts='vagrant ssh'
 alias el='ssh a2guo@ecelinux'
 alias al='ssh a2guo@uwasic1'
 
-# macvim activate
-alias mvim='~/.vim/mvim'
-
-#ipython
-alias ipy='ipython'
-
 #git shortcuts
 alias brandate='for k in `git branch|perl -pe s/^..//`;do echo -e `git show --pretty=format:"%Cgreen%ci %Cblue%cr%Creset" $k|head -n 1`\\t$k;done|sort -r'
 
