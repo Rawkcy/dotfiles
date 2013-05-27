@@ -1,0 +1,10 @@
+.DS_Store?
+.DS_Store
+.netrwhist
+*.pyc
+.svn
+Thumbs.db
+Icon?
+*.swp
+*.swo
+.venv
