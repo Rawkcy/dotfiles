@@ -10,7 +10,10 @@
 
 [color]
   ui = auto
-    
+
+[push]
+  default = simple
+
 [color "branch"]
   current = yellow reverse
   local = yellow
