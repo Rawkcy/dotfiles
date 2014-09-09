@@ -7,6 +7,7 @@
 set nocompatible
 syntax on
 filetype off
+" filetype indent plugin on
 
 " Vundle:
 set rtp+=~/.vim/bundle/vundle/
